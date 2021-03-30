@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     float x, y;
 
-    boolean myAdditon, mySubtract, myMultipication, myDivison;
+    boolean myDivision, mySubtract, myMultipication, myAdditon;
 
 
 
